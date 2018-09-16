@@ -1,1 +1,1 @@
-Please refer to the file Python Analysis Project :)
+This is mostly a compiliation of a variety of analysis used for financial data and python.
